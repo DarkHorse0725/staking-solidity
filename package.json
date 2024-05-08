@@ -1,0 +1,21 @@
+{
+  "name": "@paidnetwork/ignition-sc-staking",
+  "version": "1.0.2",
+  "description": "The new Ignition 2.0 Staking",
+  "files": [
+    "lib/**/*.sol",
+    "src/contracts/**/*.sol",
+    "src/interfaces/**/*.sol"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ben Stahlhood II <bstahlhood@icloud.com>",
+  "license": "ISC",
+  "main": "index.js"
+}
